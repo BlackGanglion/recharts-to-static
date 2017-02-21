@@ -1,0 +1,14 @@
+{
+  "name": "recharts-to-static",
+  "version": "0.1.0",
+  "description": "recharts to static picture",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlackGanglion",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
